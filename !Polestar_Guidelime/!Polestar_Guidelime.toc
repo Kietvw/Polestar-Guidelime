@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Polestar Guidelime
+## Notes: Plays the guides of your Guidelime guide addons in Polestar.
+## Author: Polestar Guidelime bridge
+## Version: 0.1.0
+## Category: Polestar
+## Group: Polestar
+## Dependencies: Polestar, Guidelime
+## X-Polestar-Pack: guidelime
+## X-Polestar-Format: 10
+## X-Polestar-Needs: 0.4.0
+
+Data.lua
+Convert.lua
+Bridge.lua
