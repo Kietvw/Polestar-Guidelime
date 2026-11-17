@@ -1,7 +1,7 @@
 # Polestar-Guidelime
 
 A bridge between [Guidelime](https://www.curseforge.com/wow/addons/guidelime) guides and
-[Polestar](https://polestar.guide): install it next to Guidelime and any Guidelime guide addon
+[Polestar](https://polestar.guide), for WoW Forever: install it next to Guidelime and any Guidelime guide addon
 (such as TUGs), and Polestar plays those guides, with its own arrow, quest tracking and step list.
 
 Nothing is converted ahead of time: the guides are read from the guide addons you have
